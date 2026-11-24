@@ -1,3 +1,4 @@
+
 # AURA - Adaptive Unified Response Assistant
 
 AURA is a voice-controlled music assistant that uses AI to detect your mood and play appropriate music via Spotify.
@@ -56,3 +57,6 @@ AURA is a voice-controlled music assistant that uses AI to detect your mood and 
 ## License
 
 MIT
+# Aura
+adaptive user response assistant 
+
